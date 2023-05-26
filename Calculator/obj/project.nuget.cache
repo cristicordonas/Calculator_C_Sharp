@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2nFsDcEUkND4SYTCIJsBof+LPvG3NOdHF1LAYMbDWt99mf5QLQYHc9rTMHrUuj6KCqGQnj+P6tbl+KImK42RdA==",
+  "success": true,
+  "projectFilePath": "D:\\MOZILLA\\PROIECTE\\Calculator_C#\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crist\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.26\\microsoft.windows.sdk.net.ref.10.0.17763.26.nupkg.sha512"
+  ],
+  "logs": []
+}
